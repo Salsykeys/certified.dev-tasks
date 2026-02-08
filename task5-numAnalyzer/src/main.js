@@ -1,7 +1,18 @@
 // complete the challenge here 👇
 
 // Number List
-let numbers = [23, 54, 32, 87, 47, 15, 98, 6, 63, 41]
+let numbers = [
+  23,
+  54,
+  32,
+  87,
+  47,
+  15,
+  98,
+  6,
+  63,
+  41
+]
 
 // Even/Odd Counter
 
